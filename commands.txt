@@ -1,0 +1,18 @@
+# for backend
+
+## cd Project
+## cd PNY
+## cd backend
+## venv\Scripts\activate
+## pip install -r requirements.txt
+## python manage.py makemigrations
+## python manage.py migrate
+## python manage.py runserver
+
+# for frontend
+
+## cd Project
+## cd PNY
+## cd frontend
+## npm install
+## npm start
